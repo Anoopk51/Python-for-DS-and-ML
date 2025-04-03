@@ -1,0 +1,78 @@
+race_name,year,location,date,name,driver_number,nationality,position,fastest_Lap,time,points
+Australian Grand Prix,2009,Melbourne,2009-03-29,Lewis Hamilton,44,British,1,39,06:00:00,10.0
+Malaysian Grand Prix,2009,Kuala Lumpur,2009-04-05,Nick Heidfeld,\N,German,2,41,09:00:00,8.0
+Chinese Grand Prix,2009,Sakhir,2009-04-19,Nico Rosberg,6,German,3,41,07:00:00,6.0
+Bahrain Grand Prix,2009,Montmeló,2009-04-26,Fernando Alonso,14,Spanish,4,58,12:00:00,5.0
+Spanish Grand Prix,2009,Istanbul,2009-05-10,Heikki Kovalainen,\N,Finnish,5,43,12:00:00,4.0
+Monaco Grand Prix,2009,Monte-Carlo,2009-05-24,Kazuki Nakajima,\N,Japanese,6,50,12:00:00,3.0
+Turkish Grand Prix,2009,Montreal,2009-06-07,Sébastien Bourdais,\N,French,7,22,12:00:00,2.0
+British Grand Prix,2009,Magny Cours,2009-06-21,Kimi Räikkönen,7,Finnish,8,20,12:00:00,1.0
+German Grand Prix,2009,Silverstone,2009-07-12,Robert Kubica,88,Polish,\N,15,12:00:00,0.0
+Hungarian Grand Prix,2009,Hockenheim,2009-07-26,Timo Glock,\N,German,\N,23,12:00:00,0.0
+European Grand Prix,2009,Budapest,2009-08-23,Takuma Sato,\N,Japanese,\N,24,12:00:00,0.0
+Belgian Grand Prix,2009,Valencia,2009-08-30,Nelson Piquet Jr.,\N,Brazilian,\N,20,12:00:00,0.0
+Italian Grand Prix,2009,Spa,2009-09-13,Felipe Massa,19,Brazilian,\N,23,12:00:00,0.0
+Singapore Grand Prix,2009,Monza,2009-09-27,David Coulthard,\N,British,\N,21,12:00:00,0.0
+Japanese Grand Prix,2009,Marina Bay,2009-10-04,Jarno Trulli,\N,Italian,\N,18,05:00:00,0.0
+Brazilian Grand Prix,2009,Oyama,2009-10-18,Adrian Sutil,99,German,\N,8,16:00:00,0.0
+Abu Dhabi Grand Prix,2009,Shanghai,2009-11-01,Mark Webber,\N,Australian,\N,\N,11:00:00,0.0
+Australian Grand Prix,2008,São Paulo,2008-03-16,Jenson Button,22,British,\N,\N,04:30:00,0.0
+Malaysian Grand Prix,2008,Indianapolis,2008-03-23,Anthony Davidson,\N,British,\N,\N,07:00:00,0.0
+Bahrain Grand Prix,2008,Nürburg,2008-04-06,Sebastian Vettel,5,German,\N,\N,11:30:00,0.0
+Spanish Grand Prix,2008,Imola,2008-04-27,Giancarlo Fisichella,\N,Italian,\N,\N,12:00:00,0.0
+Turkish Grand Prix,2008,Suzuka,2008-05-11,Rubens Barrichello,\N,Brazilian,\N,44,12:00:00,0.0
+Monaco Grand Prix,2008,Spielburg,2008-05-25,Ralf Schumacher,\N,German,1,37,12:00:00,10.0
+Canadian Grand Prix,2008,Abu Dhabi,2008-06-08,Vitantonio Liuzzi,\N,Italian,2,39,17:00:00,8.0
+French Grand Prix,2008,Buenos Aires,2008-06-22,Alexander Wurz,\N,Austrian,3,19,12:00:00,6.0
+British Grand Prix,2008,Jerez de la Frontera,2008-07-06,Scott Speed,\N,American,4,53,12:00:00,5.0
+German Grand Prix,2008,Estoril,2008-07-20,Christijan Albers,\N,Dutch,5,53,12:00:00,4.0
+Hungarian Grand Prix,2008,Okayama,2008-08-03,Markus Winkelhock,\N,German,6,55,12:00:00,3.0
+European Grand Prix,2008,Adelaide,2008-08-24,Sakon Yamamoto,\N,Japanese,7,53,12:00:00,2.0
+Belgian Grand Prix,2008,Midrand,2008-09-07,Michael Schumacher,\N,German,8,40,12:00:00,1.0
+Italian Grand Prix,2008,Castle Donington,2008-09-14,Juan Pablo Montoya,\N,Colombian,9,55,12:00:00,0.0
+Singapore Grand Prix,2008,Mexico City,2008-09-28,Christian Klien,\N,Austrian,10,56,12:00:00,0.0
+Japanese Grand Prix,2008,Phoenix,2008-10-12,Tiago Monteiro,\N,Portuguese,11,52,04:30:00,0.0
+Chinese Grand Prix,2008,Le Castellet,2008-10-19,Yuji Ide,\N,Japanese,12,52,07:00:00,0.0
+Brazilian Grand Prix,2008,Yeongam County,2008-11-02,Jacques Villeneuve,\N,Canadian,13,55,17:00:00,0.0
+Australian Grand Prix,2007,Rio de Janeiro,2007-03-18,Franck Montagny,\N,French,14,55,03:00:00,0.0
+Malaysian Grand Prix,2007,Detroit,2007-04-08,Pedro de la Rosa,\N,Spanish,15,55,07:00:00,0.0
+Bahrain Grand Prix,2007,Kent,2007-04-15,Robert Doornbos,\N,Dutch,16,53,11:30:00,0.0
+Spanish Grand Prix,2007,Zandvoort,2007-05-13,Narain Karthikeyan,\N,Indian,17,19,12:00:00,0.0
+Monaco Grand Prix,2007,Heusden-Zolder,2007-05-27,Patrick Friesacher,\N,Austrian,\N,37,12:00:00,0.0
+Canadian Grand Prix,2007,Dijon,2007-06-10,Ricardo Zonta,\N,Brazilian,\N,15,17:00:00,0.0
+United States Grand Prix,2007,Dallas,2007-06-17,Antônio Pizzonia,\N,Brazilian,\N,3,17:00:00,0.0
+French Grand Prix,2007,California,2007-07-01,Cristiano da Matta,\N,Brazilian,\N,\N,12:00:00,0.0
+British Grand Prix,2007,Nevada,2007-07-08,Olivier Panis,\N,French,\N,\N,12:00:00,0.0
+European Grand Prix,2007,Madrid,2007-07-22,Giorgio Pantano,\N,Italian,1,38,12:00:00,10.0
+Hungarian Grand Prix,2007,New York State,2007-08-05,Gianmaria Bruni,\N,Italian,2,35,12:00:00,8.0
+Turkish Grand Prix,2007,Anderstorp,2007-08-26,Zsolt Baumgartner,\N,Hungarian,3,55,12:00:00,6.0
+Italian Grand Prix,2007,Ontario,2007-09-09,Marc Gené,\N,Spanish,4,48,12:00:00,5.0
+Belgian Grand Prix,2007,Barcelona,2007-09-16,Heinz-Harald Frentzen,\N,German,5,49,12:00:00,4.0
+Japanese Grand Prix,2007,Brussels,2007-09-30,Jos Verstappen,\N,Dutch,6,45,04:30:00,3.0
+Chinese Grand Prix,2007,Clermont-Ferrand,2007-10-07,Justin Wilson,\N,British,7,51,06:00:00,2.0
+Brazilian Grand Prix,2007,Quebec,2007-10-21,Ralph Firman,\N,Irish,8,57,16:00:00,1.0
+Bahrain Grand Prix,2006,Rouen,2006-03-12,Nicolas Kiesa,\N,Danish,9,56,14:30:00,0.0
+Malaysian Grand Prix,2006,Le Mans,2006-03-19,Luciano Burti,\N,Brazilian,10,35,15:00:00,0.0
+Australian Grand Prix,2006,Reims,2006-04-02,Jean Alesi,\N,French,11,40,14:00:00,0.0
+San Marino Grand Prix,2006,Eastern Cape Province,2006-04-23,Eddie Irvine,\N,British,12,56,14:00:00,0.0
+European Grand Prix,2006,Styria,2006-05-07,Mika Häkkinen,\N,Finnish,13,25,14:00:00,0.0
+Spanish Grand Prix,2006,Liverpool,2006-05-14,Tarso Marques,\N,Brazilian,14,30,14:00:00,0.0
+Monaco Grand Prix,2006,Oporto,2006-05-28,Enrique Bernoldi,\N,Brazilian,15,33,14:00:00,0.0
+British Grand Prix,2006,California,2006-06-11,Gastón Mazzacane,\N,Argentine,16,45,12:00:00,0.0
+Canadian Grand Prix,2006,Berlin,2006-06-25,Tomáš Enge,\N,Czech,17,56,13:00:00,0.0
+United States Grand Prix,2006,Lisbon,2006-07-02,Alex Yoong,\N,Malaysian,18,43,14:00:00,0.0
+French Grand Prix,2006,Florida,2006-07-16,Mika Salo,\N,Finnish,19,55,14:00:00,0.0
+German Grand Prix,2006,Casablanca,2006-07-30,Pedro Diniz,\N,Brazilian,\N,31,14:00:00,0.0
+Hungarian Grand Prix,2006,Pescara,2006-08-06,Johnny Herbert,\N,British,\N,11,14:00:00,0.0
+Turkish Grand Prix,2006,Bern,2006-08-27,Allan McNish,\N,British,\N,\N,15:00:00,0.0
+Italian Grand Prix,2006,Barcelona,2006-09-10,Sébastien Buemi,\N,Swiss,1,46,14:00:00,10.0
+Chinese Grand Prix,2006,Uttar Pradesh,2006-10-01,Toranosuke Takagi,\N,Japanese,2,45,14:00:00,8.0
+Japanese Grand Prix,2006,Austin,2006-10-08,Luca Badoer,\N,Italian,3,20,14:00:00,6.0
+Brazilian Grand Prix,2006,Spielburg,2006-10-22,Alessandro Zanardi,\N,Italian,4,20,14:00:00,5.0
+Australian Grand Prix,2005,Sochi,2005-03-06,Damon Hill,\N,British,5,19,14:00:00,4.0
+Malaysian Grand Prix,2005,New Jersey,2005-03-20,Stéphane Sarrazin,\N,French,6,66,15:00:00,3.0
+Bahrain Grand Prix,2005,Baku,2005-04-03,Ricardo Rosset,\N,Brazilian,7,48,14:30:00,2.0
+San Marino Grand Prix,2005,Hanoi,2005-04-24,Esteban Tuero,\N,Argentine,8,45,14:00:00,1.0
+Spanish Grand Prix,2005,Portimão,2005-05-08,Shinji Nakano,\N,Japanese,9,21,14:00:00,0.0
+Monaco Grand Prix,2005,Mugello,2005-05-22,Jan Magnussen,\N,Danish,10,40,14:00:00,0.0
+European Grand Prix,2005,Jeddah,2005-05-29,Gerhard Berger,\N,Austrian,11,57,14:00:00,0.0

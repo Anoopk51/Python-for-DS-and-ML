@@ -1,0 +1,341 @@
+race_year,circuit_location,race_name,race_date,driver_name,driver_number,driver_nationality,grid,position,fastest_lap,race_time,points,team,created_date
+2020,Nürburg,Eifel Grand Prix,2020-10-11T13:10:00.000+0000,Lewis Hamilton,44,British,2,1,58,1:35:49.641,25,Mercedes,2024-09-30T06:19:53.613+0000
+2020,Nürburg,Eifel Grand Prix,2020-10-11T13:10:00.000+0000,Max Verstappen,33,Dutch,3,2,60,+4.470,19,Red Bull,2024-09-30T06:19:53.613+0000
+2020,Nürburg,Eifel Grand Prix,2020-10-11T13:10:00.000+0000,Daniel Ricciardo,3,Australian,6,3,53,+14.613,15,Renault,2024-09-30T06:19:53.613+0000
+2020,Nürburg,Eifel Grand Prix,2020-10-11T13:10:00.000+0000,Sergio Pérez,11,Mexican,9,4,58,+16.070,12,Racing Point,2024-09-30T06:19:53.613+0000
+2020,Nürburg,Eifel Grand Prix,2020-10-11T13:10:00.000+0000,Carlos Sainz,55,Spanish,10,5,53,+21.905,10,McLaren,2024-09-30T06:19:53.613+0000
+2020,Nürburg,Eifel Grand Prix,2020-10-11T13:10:00.000+0000,Pierre Gasly,10,French,12,6,53,+22.766,8,AlphaTauri,2024-09-30T06:19:53.613+0000
+2020,Nürburg,Eifel Grand Prix,2020-10-11T13:10:00.000+0000,Charles Leclerc,16,Monegasque,4,7,54,+30.814,6,Ferrari,2024-09-30T06:19:53.613+0000
+2020,Nürburg,Eifel Grand Prix,2020-10-11T13:10:00.000+0000,Nico Hülkenberg,27,German,20,8,58,+32.596,4,Racing Point,2024-09-30T06:19:53.613+0000
+2020,Nürburg,Eifel Grand Prix,2020-10-11T13:10:00.000+0000,Romain Grosjean,8,French,16,9,54,+39.081,2,Haas F1 Team,2024-09-30T06:19:53.613+0000
+2020,Nürburg,Eifel Grand Prix,2020-10-11T13:10:00.000+0000,Antonio Giovinazzi,99,Italian,14,10,38,+40.035,1,Alfa Romeo,2024-09-30T06:19:53.613+0000
+2020,Nürburg,Eifel Grand Prix,2020-10-11T13:10:00.000+0000,Sebastian Vettel,5,German,11,11,43,+40.810,0,Ferrari,2024-09-30T06:19:53.613+0000
+2020,Nürburg,Eifel Grand Prix,2020-10-11T13:10:00.000+0000,Kimi Räikkönen,7,Finnish,19,12,54,+41.476,0,Alfa Romeo,2024-09-30T06:19:53.613+0000
+2020,Nürburg,Eifel Grand Prix,2020-10-11T13:10:00.000+0000,Kevin Magnussen,20,Danish,15,13,37,+49.585,0,Haas F1 Team,2024-09-30T06:19:53.613+0000
+2020,Nürburg,Eifel Grand Prix,2020-10-11T13:10:00.000+0000,Nicholas Latifi,6,Canadian,18,14,39,+54.449,0,Williams,2024-09-30T06:19:53.613+0000
+2020,Nürburg,Eifel Grand Prix,2020-10-11T13:10:00.000+0000,Daniil Kvyat,26,Russian,13,15,41,+55.588,0,AlphaTauri,2024-09-30T06:19:53.613+0000
+2020,Nürburg,Eifel Grand Prix,2020-10-11T13:10:00.000+0000,Lando Norris,4,British,8,null,40,\N,0,McLaren,2024-09-30T06:19:53.613+0000
+2020,Nürburg,Eifel Grand Prix,2020-10-11T13:10:00.000+0000,Alexander Albon,23,Thai,5,null,9,\N,0,Red Bull,2024-09-30T06:19:53.613+0000
+2020,Nürburg,Eifel Grand Prix,2020-10-11T13:10:00.000+0000,Esteban Ocon,31,French,7,null,21,\N,0,Renault,2024-09-30T06:19:53.613+0000
+2020,Nürburg,Eifel Grand Prix,2020-10-11T13:10:00.000+0000,Valtteri Bottas,77,Finnish,1,null,8,\N,0,Mercedes,2024-09-30T06:19:53.613+0000
+2020,Nürburg,Eifel Grand Prix,2020-10-11T13:10:00.000+0000,George Russell,63,British,17,null,6,\N,0,Williams,2024-09-30T06:19:53.613+0000
+2020,Imola,Emilia Romagna Grand Prix,2020-11-01T12:10:00.000+0000,Lewis Hamilton,44,British,2,1,63,1:28:32.430,26,Mercedes,2024-09-30T06:19:53.613+0000
+2020,Imola,Emilia Romagna Grand Prix,2020-11-01T12:10:00.000+0000,Valtteri Bottas,77,Finnish,1,2,63,+5.783,18,Mercedes,2024-09-30T06:19:53.613+0000
+2020,Imola,Emilia Romagna Grand Prix,2020-11-01T12:10:00.000+0000,Daniel Ricciardo,3,Australian,5,3,62,+14.320,15,Renault,2024-09-30T06:19:53.613+0000
+2020,Imola,Emilia Romagna Grand Prix,2020-11-01T12:10:00.000+0000,Daniil Kvyat,26,Russian,8,4,62,+15.141,12,AlphaTauri,2024-09-30T06:19:53.613+0000
+2020,Imola,Emilia Romagna Grand Prix,2020-11-01T12:10:00.000+0000,Charles Leclerc,16,Monegasque,7,5,62,+19.111,10,Ferrari,2024-09-30T06:19:53.613+0000
+2020,Imola,Emilia Romagna Grand Prix,2020-11-01T12:10:00.000+0000,Sergio Pérez,11,Mexican,11,6,49,+19.652,8,Racing Point,2024-09-30T06:19:53.613+0000
+2020,Imola,Emilia Romagna Grand Prix,2020-11-01T12:10:00.000+0000,Carlos Sainz,55,Spanish,10,7,62,+20.230,6,McLaren,2024-09-30T06:19:53.613+0000
+2020,Imola,Emilia Romagna Grand Prix,2020-11-01T12:10:00.000+0000,Lando Norris,4,British,9,8,63,+21.131,4,McLaren,2024-09-30T06:19:53.613+0000
+2020,Imola,Emilia Romagna Grand Prix,2020-11-01T12:10:00.000+0000,Kimi Räikkönen,7,Finnish,18,9,63,+22.224,2,Alfa Romeo,2024-09-30T06:19:53.613+0000
+2020,Imola,Emilia Romagna Grand Prix,2020-11-01T12:10:00.000+0000,Antonio Giovinazzi,99,Italian,20,10,61,+26.398,1,Alfa Romeo,2024-09-30T06:19:53.613+0000
+2020,Imola,Emilia Romagna Grand Prix,2020-11-01T12:10:00.000+0000,Nicholas Latifi,6,Canadian,19,11,37,+27.135,0,Williams,2024-09-30T06:19:53.613+0000
+2020,Imola,Emilia Romagna Grand Prix,2020-11-01T12:10:00.000+0000,Sebastian Vettel,5,German,14,12,44,+28.453,0,Ferrari,2024-09-30T06:19:53.613+0000
+2020,Imola,Emilia Romagna Grand Prix,2020-11-01T12:10:00.000+0000,Lance Stroll,18,Canadian,15,13,46,+29.163,0,Racing Point,2024-09-30T06:19:53.613+0000
+2020,Imola,Emilia Romagna Grand Prix,2020-11-01T12:10:00.000+0000,Romain Grosjean,8,French,16,14,45,+32.935,0,Haas F1 Team,2024-09-30T06:19:53.613+0000
+2020,Imola,Emilia Romagna Grand Prix,2020-11-01T12:10:00.000+0000,Alexander Albon,23,Thai,6,15,63,+57.284,0,Red Bull,2024-09-30T06:19:53.613+0000
+2020,Imola,Emilia Romagna Grand Prix,2020-11-01T12:10:00.000+0000,George Russell,63,British,13,null,43,\N,0,Williams,2024-09-30T06:19:53.613+0000
+2020,Imola,Emilia Romagna Grand Prix,2020-11-01T12:10:00.000+0000,Max Verstappen,33,Dutch,3,null,44,\N,0,Red Bull,2024-09-30T06:19:53.613+0000
+2020,Imola,Emilia Romagna Grand Prix,2020-11-01T12:10:00.000+0000,Kevin Magnussen,20,Danish,17,null,45,\N,0,Haas F1 Team,2024-09-30T06:19:53.613+0000
+2020,Imola,Emilia Romagna Grand Prix,2020-11-01T12:10:00.000+0000,Esteban Ocon,31,French,12,null,22,\N,0,Renault,2024-09-30T06:19:53.613+0000
+2020,Imola,Emilia Romagna Grand Prix,2020-11-01T12:10:00.000+0000,Pierre Gasly,10,French,4,null,5,\N,0,AlphaTauri,2024-09-30T06:19:53.613+0000
+2020,Monza,Italian Grand Prix,2020-09-06T13:10:00.000+0000,Pierre Gasly,10,French,10,1,34,1:47:06.056,25,AlphaTauri,2024-09-30T06:19:53.613+0000
+2020,Monza,Italian Grand Prix,2020-09-06T13:10:00.000+0000,Carlos Sainz,55,Spanish,3,2,40,+0.415,18,McLaren,2024-09-30T06:19:53.613+0000
+2020,Monza,Italian Grand Prix,2020-09-06T13:10:00.000+0000,Lance Stroll,18,Canadian,8,3,42,+3.358,15,Racing Point,2024-09-30T06:19:53.613+0000
+2020,Monza,Italian Grand Prix,2020-09-06T13:10:00.000+0000,Lando Norris,4,British,6,4,50,+6.000,12,McLaren,2024-09-30T06:19:53.613+0000
+2020,Monza,Italian Grand Prix,2020-09-06T13:10:00.000+0000,Valtteri Bottas,77,Finnish,2,5,51,+7.108,10,Mercedes,2024-09-30T06:19:53.613+0000
+2020,Monza,Italian Grand Prix,2020-09-06T13:10:00.000+0000,Daniel Ricciardo,3,Australian,7,6,38,+8.391,8,Renault,2024-09-30T06:19:53.613+0000
+2020,Monza,Italian Grand Prix,2020-09-06T13:10:00.000+0000,Lewis Hamilton,44,British,1,7,34,+17.245,7,Mercedes,2024-09-30T06:19:53.613+0000
+2020,Monza,Italian Grand Prix,2020-09-06T13:10:00.000+0000,Esteban Ocon,31,French,12,8,52,+18.691,4,Renault,2024-09-30T06:19:53.613+0000
+2020,Monza,Italian Grand Prix,2020-09-06T13:10:00.000+0000,Daniil Kvyat,26,Russian,11,9,44,+22.208,2,AlphaTauri,2024-09-30T06:19:53.613+0000
+2020,Monza,Italian Grand Prix,2020-09-06T13:10:00.000+0000,Sergio Pérez,11,Mexican,4,10,50,+23.224,1,Racing Point,2024-09-30T06:19:53.613+0000
+2020,Monza,Italian Grand Prix,2020-09-06T13:10:00.000+0000,Nicholas Latifi,6,Canadian,20,11,39,+32.876,0,Williams,2024-09-30T06:19:53.613+0000
+2020,Monza,Italian Grand Prix,2020-09-06T13:10:00.000+0000,Romain Grosjean,8,French,16,12,48,+35.164,0,Haas F1 Team,2024-09-30T06:19:53.613+0000
+2020,Monza,Italian Grand Prix,2020-09-06T13:10:00.000+0000,Kimi Räikkönen,7,Finnish,14,13,29,+36.312,0,Alfa Romeo,2024-09-30T06:19:53.613+0000
+2020,Monza,Italian Grand Prix,2020-09-06T13:10:00.000+0000,George Russell,63,British,19,14,39,+36.593,0,Williams,2024-09-30T06:19:53.613+0000
+2020,Monza,Italian Grand Prix,2020-09-06T13:10:00.000+0000,Alexander Albon,23,Thai,9,15,48,+37.533,0,Red Bull,2024-09-30T06:19:53.613+0000
+2020,Monza,Italian Grand Prix,2020-09-06T13:10:00.000+0000,Antonio Giovinazzi,99,Italian,18,16,43,+55.199,0,Alfa Romeo,2024-09-30T06:19:53.613+0000
+2020,Monza,Italian Grand Prix,2020-09-06T13:10:00.000+0000,Max Verstappen,33,Dutch,5,null,10,\N,0,Red Bull,2024-09-30T06:19:53.613+0000
+2020,Monza,Italian Grand Prix,2020-09-06T13:10:00.000+0000,Charles Leclerc,16,Monegasque,13,null,19,\N,0,Ferrari,2024-09-30T06:19:53.613+0000
+2020,Monza,Italian Grand Prix,2020-09-06T13:10:00.000+0000,Kevin Magnussen,20,Danish,15,null,10,\N,0,Haas F1 Team,2024-09-30T06:19:53.613+0000
+2020,Monza,Italian Grand Prix,2020-09-06T13:10:00.000+0000,Sebastian Vettel,5,German,17,null,4,\N,0,Ferrari,2024-09-30T06:19:53.613+0000
+2020,Silverstone,British Grand Prix,2020-08-02T13:10:00.000+0000,Lewis Hamilton,44,British,1,1,45,1:28:01.283,25,Mercedes,2024-09-30T06:19:53.613+0000
+2020,Silverstone,British Grand Prix,2020-08-02T13:10:00.000+0000,Max Verstappen,33,Dutch,3,2,52,+5.856,19,Red Bull,2024-09-30T06:19:53.613+0000
+2020,Silverstone,British Grand Prix,2020-08-02T13:10:00.000+0000,Charles Leclerc,16,Monegasque,4,3,49,+18.474,15,Ferrari,2024-09-30T06:19:53.613+0000
+2020,Silverstone,British Grand Prix,2020-08-02T13:10:00.000+0000,Daniel Ricciardo,3,Australian,8,4,49,+19.650,12,Renault,2024-09-30T06:19:53.613+0000
+2020,Silverstone,British Grand Prix,2020-08-02T13:10:00.000+0000,Lando Norris,4,British,5,5,41,+22.277,10,McLaren,2024-09-30T06:19:53.613+0000
+2020,Silverstone,British Grand Prix,2020-08-02T13:10:00.000+0000,Esteban Ocon,31,French,9,6,50,+26.937,8,Renault,2024-09-30T06:19:53.613+0000
+2020,Silverstone,British Grand Prix,2020-08-02T13:10:00.000+0000,Pierre Gasly,10,French,11,7,52,+31.188,6,AlphaTauri,2024-09-30T06:19:53.613+0000
+2020,Silverstone,British Grand Prix,2020-08-02T13:10:00.000+0000,Alexander Albon,23,Thai,12,8,52,+32.670,4,Red Bull,2024-09-30T06:19:53.613+0000
+2020,Silverstone,British Grand Prix,2020-08-02T13:10:00.000+0000,Lance Stroll,18,Canadian,6,9,44,+37.311,2,Racing Point,2024-09-30T06:19:53.613+0000
+2020,Silverstone,British Grand Prix,2020-08-02T13:10:00.000+0000,Sebastian Vettel,5,German,10,10,44,+41.857,1,Ferrari,2024-09-30T06:19:53.613+0000
+2020,Silverstone,British Grand Prix,2020-08-02T13:10:00.000+0000,Valtteri Bottas,77,Finnish,2,11,41,+42.167,0,Mercedes,2024-09-30T06:19:53.613+0000
+2020,Silverstone,British Grand Prix,2020-08-02T13:10:00.000+0000,George Russell,63,British,20,12,41,+52.004,0,Williams,2024-09-30T06:19:53.613+0000
+2020,Silverstone,British Grand Prix,2020-08-02T13:10:00.000+0000,Carlos Sainz,55,Spanish,7,13,47,+53.370,0,McLaren,2024-09-30T06:19:53.613+0000
+2020,Silverstone,British Grand Prix,2020-08-02T13:10:00.000+0000,Antonio Giovinazzi,99,Italian,15,14,49,+54.205,0,Alfa Romeo,2024-09-30T06:19:53.613+0000
+2020,Silverstone,British Grand Prix,2020-08-02T13:10:00.000+0000,Nicholas Latifi,6,Canadian,18,15,44,+54.549,0,Williams,2024-09-30T06:19:53.613+0000
+2020,Silverstone,British Grand Prix,2020-08-02T13:10:00.000+0000,Romain Grosjean,8,French,17,16,49,+55.050,0,Haas F1 Team,2024-09-30T06:19:53.613+0000
+2020,Silverstone,British Grand Prix,2020-08-02T13:10:00.000+0000,Kimi Räikkönen,7,Finnish,16,17,49,\N,0,Alfa Romeo,2024-09-30T06:19:53.613+0000
+2020,Silverstone,British Grand Prix,2020-08-02T13:10:00.000+0000,Daniil Kvyat,26,Russian,19,null,11,\N,0,AlphaTauri,2024-09-30T06:19:53.613+0000
+2020,Silverstone,British Grand Prix,2020-08-02T13:10:00.000+0000,Kevin Magnussen,20,Danish,14,null,null,\N,0,Haas F1 Team,2024-09-30T06:19:53.613+0000
+2020,Silverstone,British Grand Prix,2020-08-02T13:10:00.000+0000,Nico Hülkenberg,27,German,13,null,null,\N,0,Racing Point,2024-09-30T06:19:53.613+0000
+2020,Spielburg,Austrian Grand Prix,2020-07-05T13:10:00.000+0000,Valtteri Bottas,77,Finnish,1,1,68,1:30:55.739,25,Mercedes,2024-09-30T06:19:53.613+0000
+2020,Spielburg,Austrian Grand Prix,2020-07-05T13:10:00.000+0000,Charles Leclerc,16,Monegasque,7,2,64,+2.700,18,Ferrari,2024-09-30T06:19:53.613+0000
+2020,Spielburg,Austrian Grand Prix,2020-07-05T13:10:00.000+0000,Lando Norris,4,British,3,3,71,+5.491,16,McLaren,2024-09-30T06:19:53.613+0000
+2020,Spielburg,Austrian Grand Prix,2020-07-05T13:10:00.000+0000,Lewis Hamilton,44,British,5,4,67,+5.689,12,Mercedes,2024-09-30T06:19:53.613+0000
+2020,Spielburg,Austrian Grand Prix,2020-07-05T13:10:00.000+0000,Carlos Sainz,55,Spanish,8,5,63,+8.903,10,McLaren,2024-09-30T06:19:53.613+0000
+2020,Spielburg,Austrian Grand Prix,2020-07-05T13:10:00.000+0000,Sergio Pérez,11,Mexican,6,6,63,+15.092,8,Racing Point,2024-09-30T06:19:53.613+0000
+2020,Spielburg,Austrian Grand Prix,2020-07-05T13:10:00.000+0000,Pierre Gasly,10,French,12,7,64,+16.682,6,AlphaTauri,2024-09-30T06:19:53.613+0000
+2020,Spielburg,Austrian Grand Prix,2020-07-05T13:10:00.000+0000,Esteban Ocon,31,French,14,8,64,+17.456,4,Renault,2024-09-30T06:19:53.613+0000
+2020,Spielburg,Austrian Grand Prix,2020-07-05T13:10:00.000+0000,Antonio Giovinazzi,99,Italian,18,9,70,+21.146,2,Alfa Romeo,2024-09-30T06:19:53.613+0000
+2020,Spielburg,Austrian Grand Prix,2020-07-05T13:10:00.000+0000,Sebastian Vettel,5,German,11,10,71,+24.545,1,Ferrari,2024-09-30T06:19:53.613+0000
+2020,Spielburg,Austrian Grand Prix,2020-07-05T13:10:00.000+0000,Nicholas Latifi,6,Canadian,20,11,63,+31.650,0,Williams,2024-09-30T06:19:53.613+0000
+2020,Spielburg,Austrian Grand Prix,2020-07-05T13:10:00.000+0000,Daniil Kvyat,26,Russian,13,12,50,\N,0,AlphaTauri,2024-09-30T06:19:53.613+0000
+2020,Spielburg,Austrian Grand Prix,2020-07-05T13:10:00.000+0000,Alexander Albon,23,Thai,4,13,50,\N,0,Red Bull,2024-09-30T06:19:53.613+0000
+2020,Spielburg,Austrian Grand Prix,2020-07-05T13:10:00.000+0000,Kimi Räikkönen,7,Finnish,19,null,48,\N,0,Alfa Romeo,2024-09-30T06:19:53.613+0000
+2020,Spielburg,Austrian Grand Prix,2020-07-05T13:10:00.000+0000,George Russell,63,British,17,null,49,\N,0,Williams,2024-09-30T06:19:53.613+0000
+2020,Spielburg,Austrian Grand Prix,2020-07-05T13:10:00.000+0000,Romain Grosjean,8,French,15,null,46,\N,0,Haas F1 Team,2024-09-30T06:19:53.613+0000
+2020,Spielburg,Austrian Grand Prix,2020-07-05T13:10:00.000+0000,Kevin Magnussen,20,Danish,16,null,23,\N,0,Haas F1 Team,2024-09-30T06:19:53.613+0000
+2020,Spielburg,Austrian Grand Prix,2020-07-05T13:10:00.000+0000,Lance Stroll,18,Canadian,9,null,4,\N,0,Racing Point,2024-09-30T06:19:53.613+0000
+2020,Spielburg,Austrian Grand Prix,2020-07-05T13:10:00.000+0000,Daniel Ricciardo,3,Australian,10,null,8,\N,0,Renault,2024-09-30T06:19:53.613+0000
+2020,Spielburg,Austrian Grand Prix,2020-07-05T13:10:00.000+0000,Max Verstappen,33,Dutch,2,null,5,\N,0,Red Bull,2024-09-30T06:19:53.613+0000
+2020,Silverstone,70th Anniversary Grand Prix,2020-08-09T13:10:00.000+0000,Max Verstappen,33,Dutch,4,1,46,1:19:41.993,25,Red Bull,2024-09-30T06:19:53.613+0000
+2020,Silverstone,70th Anniversary Grand Prix,2020-08-09T13:10:00.000+0000,Lewis Hamilton,44,British,2,2,43,+11.326,19,Mercedes,2024-09-30T06:19:53.613+0000
+2020,Silverstone,70th Anniversary Grand Prix,2020-08-09T13:10:00.000+0000,Valtteri Bottas,77,Finnish,1,3,44,+19.231,15,Mercedes,2024-09-30T06:19:53.613+0000
+2020,Silverstone,70th Anniversary Grand Prix,2020-08-09T13:10:00.000+0000,Charles Leclerc,16,Monegasque,8,4,39,+29.289,12,Ferrari,2024-09-30T06:19:53.613+0000
+2020,Silverstone,70th Anniversary Grand Prix,2020-08-09T13:10:00.000+0000,Alexander Albon,23,Thai,9,5,46,+39.146,10,Red Bull,2024-09-30T06:19:53.613+0000
+2020,Silverstone,70th Anniversary Grand Prix,2020-08-09T13:10:00.000+0000,Lance Stroll,18,Canadian,6,6,45,+42.538,8,Racing Point,2024-09-30T06:19:53.613+0000
+2020,Silverstone,70th Anniversary Grand Prix,2020-08-09T13:10:00.000+0000,Nico Hülkenberg,27,German,3,7,52,+55.951,6,Racing Point,2024-09-30T06:19:53.613+0000
+2020,Silverstone,70th Anniversary Grand Prix,2020-08-09T13:10:00.000+0000,Esteban Ocon,31,French,14,8,50,+1:04.773,4,Renault,2024-09-30T06:19:53.613+0000
+2020,Silverstone,70th Anniversary Grand Prix,2020-08-09T13:10:00.000+0000,Lando Norris,4,British,10,9,49,+1:05.544,2,McLaren,2024-09-30T06:19:53.613+0000
+2020,Silverstone,70th Anniversary Grand Prix,2020-08-09T13:10:00.000+0000,Daniil Kvyat,26,Russian,16,10,52,+1:09.669,1,AlphaTauri,2024-09-30T06:19:53.613+0000
+2020,Silverstone,70th Anniversary Grand Prix,2020-08-09T13:10:00.000+0000,Pierre Gasly,10,French,7,11,52,+1:10.642,0,AlphaTauri,2024-09-30T06:19:53.613+0000
+2020,Silverstone,70th Anniversary Grand Prix,2020-08-09T13:10:00.000+0000,Sebastian Vettel,5,German,11,12,49,+1:13.370,0,Ferrari,2024-09-30T06:19:53.613+0000
+2020,Silverstone,70th Anniversary Grand Prix,2020-08-09T13:10:00.000+0000,Carlos Sainz,55,Spanish,12,13,49,+1:14.070,0,McLaren,2024-09-30T06:19:53.613+0000
+2020,Silverstone,70th Anniversary Grand Prix,2020-08-09T13:10:00.000+0000,Daniel Ricciardo,3,Australian,5,14,39,\N,0,Renault,2024-09-30T06:19:53.613+0000
+2020,Silverstone,70th Anniversary Grand Prix,2020-08-09T13:10:00.000+0000,Kimi Räikkönen,7,Finnish,20,15,30,\N,0,Alfa Romeo,2024-09-30T06:19:53.613+0000
+2020,Silverstone,70th Anniversary Grand Prix,2020-08-09T13:10:00.000+0000,Romain Grosjean,8,French,13,16,51,\N,0,Haas F1 Team,2024-09-30T06:19:53.613+0000
+2020,Silverstone,70th Anniversary Grand Prix,2020-08-09T13:10:00.000+0000,Antonio Giovinazzi,99,Italian,19,17,37,\N,0,Alfa Romeo,2024-09-30T06:19:53.613+0000
+2020,Silverstone,70th Anniversary Grand Prix,2020-08-09T13:10:00.000+0000,George Russell,63,British,15,18,50,\N,0,Williams,2024-09-30T06:19:53.613+0000
+2020,Silverstone,70th Anniversary Grand Prix,2020-08-09T13:10:00.000+0000,Nicholas Latifi,6,Canadian,18,19,48,\N,0,Williams,2024-09-30T06:19:53.613+0000
+2020,Silverstone,70th Anniversary Grand Prix,2020-08-09T13:10:00.000+0000,Kevin Magnussen,20,Danish,17,null,39,\N,0,Haas F1 Team,2024-09-30T06:19:53.613+0000
+2020,Spa,Belgian Grand Prix,2020-08-30T13:10:00.000+0000,Lewis Hamilton,44,British,1,1,28,1:24:08.761,25,Mercedes,2024-09-30T06:19:53.613+0000
+2020,Spa,Belgian Grand Prix,2020-08-30T13:10:00.000+0000,Valtteri Bottas,77,Finnish,2,2,27,+8.448,18,Mercedes,2024-09-30T06:19:53.613+0000
+2020,Spa,Belgian Grand Prix,2020-08-30T13:10:00.000+0000,Max Verstappen,33,Dutch,3,3,27,+15.455,15,Red Bull,2024-09-30T06:19:53.613+0000
+2020,Spa,Belgian Grand Prix,2020-08-30T13:10:00.000+0000,Daniel Ricciardo,3,Australian,4,4,44,+18.877,13,Renault,2024-09-30T06:19:53.613+0000
+2020,Spa,Belgian Grand Prix,2020-08-30T13:10:00.000+0000,Esteban Ocon,31,French,6,5,44,+40.650,10,Renault,2024-09-30T06:19:53.613+0000
+2020,Spa,Belgian Grand Prix,2020-08-30T13:10:00.000+0000,Alexander Albon,23,Thai,5,6,27,+42.712,8,Red Bull,2024-09-30T06:19:53.613+0000
+2020,Spa,Belgian Grand Prix,2020-08-30T13:10:00.000+0000,Lando Norris,4,British,10,7,39,+43.774,6,McLaren,2024-09-30T06:19:53.613+0000
+2020,Spa,Belgian Grand Prix,2020-08-30T13:10:00.000+0000,Pierre Gasly,10,French,12,8,29,+47.371,4,AlphaTauri,2024-09-30T06:19:53.613+0000
+2020,Spa,Belgian Grand Prix,2020-08-30T13:10:00.000+0000,Lance Stroll,18,Canadian,9,9,34,+52.603,2,Racing Point,2024-09-30T06:19:53.613+0000
+2020,Spa,Belgian Grand Prix,2020-08-30T13:10:00.000+0000,Sergio Pérez,11,Mexican,8,10,20,+53.179,1,Racing Point,2024-09-30T06:19:53.613+0000
+2020,Spa,Belgian Grand Prix,2020-08-30T13:10:00.000+0000,Daniil Kvyat,26,Russian,11,11,28,+1:10.200,0,AlphaTauri,2024-09-30T06:19:53.613+0000
+2020,Spa,Belgian Grand Prix,2020-08-30T13:10:00.000+0000,Kimi Räikkönen,7,Finnish,16,12,28,+1:11.504,0,Alfa Romeo,2024-09-30T06:19:53.613+0000
+2020,Spa,Belgian Grand Prix,2020-08-30T13:10:00.000+0000,Sebastian Vettel,5,German,14,13,31,+1:12.894,0,Ferrari,2024-09-30T06:19:53.613+0000
+2020,Spa,Belgian Grand Prix,2020-08-30T13:10:00.000+0000,Charles Leclerc,16,Monegasque,13,14,26,+1:14.920,0,Ferrari,2024-09-30T06:19:53.613+0000
+2020,Spa,Belgian Grand Prix,2020-08-30T13:10:00.000+0000,Romain Grosjean,8,French,17,15,28,+1:16.793,0,Haas F1 Team,2024-09-30T06:19:53.613+0000
+2020,Spa,Belgian Grand Prix,2020-08-30T13:10:00.000+0000,Nicholas Latifi,6,Canadian,19,16,32,+1:17.795,0,Williams,2024-09-30T06:19:53.613+0000
+2020,Spa,Belgian Grand Prix,2020-08-30T13:10:00.000+0000,Kevin Magnussen,20,Danish,20,17,37,+1:25.540,0,Haas F1 Team,2024-09-30T06:19:53.613+0000
+2020,Spa,Belgian Grand Prix,2020-08-30T13:10:00.000+0000,Antonio Giovinazzi,99,Italian,18,null,9,\N,0,Alfa Romeo,2024-09-30T06:19:53.613+0000
+2020,Spa,Belgian Grand Prix,2020-08-30T13:10:00.000+0000,George Russell,63,British,15,null,5,\N,0,Williams,2024-09-30T06:19:53.613+0000
+2020,Spa,Belgian Grand Prix,2020-08-30T13:10:00.000+0000,Carlos Sainz,55,Spanish,7,null,null,\N,0,McLaren,2024-09-30T06:19:53.613+0000
+2020,Istanbul,Turkish Grand Prix,2020-11-15T10:10:00.000+0000,Lewis Hamilton,44,British,6,1,56,1:42:19.313,25,Mercedes,2024-09-30T06:19:53.613+0000
+2020,Istanbul,Turkish Grand Prix,2020-11-15T10:10:00.000+0000,Sergio Pérez,11,Mexican,3,2,50,+31.633,18,Racing Point,2024-09-30T06:19:53.613+0000
+2020,Istanbul,Turkish Grand Prix,2020-11-15T10:10:00.000+0000,Sebastian Vettel,5,German,11,3,53,+31.960,15,Ferrari,2024-09-30T06:19:53.613+0000
+2020,Istanbul,Turkish Grand Prix,2020-11-15T10:10:00.000+0000,Charles Leclerc,16,Monegasque,12,4,47,+33.858,12,Ferrari,2024-09-30T06:19:53.613+0000
+2020,Istanbul,Turkish Grand Prix,2020-11-15T10:10:00.000+0000,Carlos Sainz,55,Spanish,15,5,56,+34.363,10,McLaren,2024-09-30T06:19:53.613+0000
+2020,Istanbul,Turkish Grand Prix,2020-11-15T10:10:00.000+0000,Max Verstappen,33,Dutch,2,6,53,+44.873,8,Red Bull,2024-09-30T06:19:53.613+0000
+2020,Istanbul,Turkish Grand Prix,2020-11-15T10:10:00.000+0000,Alexander Albon,23,Thai,4,7,54,+46.484,6,Red Bull,2024-09-30T06:19:53.613+0000
+2020,Istanbul,Turkish Grand Prix,2020-11-15T10:10:00.000+0000,Lando Norris,4,British,14,8,58,+1:01.259,5,McLaren,2024-09-30T06:19:53.613+0000
+2020,Istanbul,Turkish Grand Prix,2020-11-15T10:10:00.000+0000,Lance Stroll,18,Canadian,1,9,55,+1:12.353,2,Racing Point,2024-09-30T06:19:53.613+0000
+2020,Istanbul,Turkish Grand Prix,2020-11-15T10:10:00.000+0000,Daniel Ricciardo,3,Australian,5,10,54,+1:35.460,1,Renault,2024-09-30T06:19:53.613+0000
+2020,Istanbul,Turkish Grand Prix,2020-11-15T10:10:00.000+0000,Esteban Ocon,31,French,7,11,55,\N,0,Renault,2024-09-30T06:19:53.613+0000
+2020,Istanbul,Turkish Grand Prix,2020-11-15T10:10:00.000+0000,Daniil Kvyat,26,Russian,16,12,53,\N,0,AlphaTauri,2024-09-30T06:19:53.613+0000
+2020,Istanbul,Turkish Grand Prix,2020-11-15T10:10:00.000+0000,Pierre Gasly,10,French,19,13,53,\N,0,AlphaTauri,2024-09-30T06:19:53.613+0000
+2020,Istanbul,Turkish Grand Prix,2020-11-15T10:10:00.000+0000,Valtteri Bottas,77,Finnish,9,14,57,\N,0,Mercedes,2024-09-30T06:19:53.613+0000
+2020,Istanbul,Turkish Grand Prix,2020-11-15T10:10:00.000+0000,Kimi Räikkönen,7,Finnish,8,15,57,\N,0,Alfa Romeo,2024-09-30T06:19:53.613+0000
+2020,Istanbul,Turkish Grand Prix,2020-11-15T10:10:00.000+0000,George Russell,63,British,0,16,51,\N,0,Williams,2024-09-30T06:19:53.613+0000
+2020,Istanbul,Turkish Grand Prix,2020-11-15T10:10:00.000+0000,Kevin Magnussen,20,Danish,13,17,45,\N,0,Haas F1 Team,2024-09-30T06:19:53.613+0000
+2020,Istanbul,Turkish Grand Prix,2020-11-15T10:10:00.000+0000,Romain Grosjean,8,French,17,null,38,\N,0,Haas F1 Team,2024-09-30T06:19:53.613+0000
+2020,Istanbul,Turkish Grand Prix,2020-11-15T10:10:00.000+0000,Nicholas Latifi,6,Canadian,0,null,32,\N,0,Williams,2024-09-30T06:19:53.613+0000
+2020,Istanbul,Turkish Grand Prix,2020-11-15T10:10:00.000+0000,Antonio Giovinazzi,99,Italian,10,null,11,\N,0,Alfa Romeo,2024-09-30T06:19:53.613+0000
+2020,Abu Dhabi,Abu Dhabi Grand Prix,2020-12-13T13:10:00.000+0000,Max Verstappen,33,Dutch,1,1,14,1:36:28.645,25,Red Bull,2024-09-30T06:19:53.613+0000
+2020,Abu Dhabi,Abu Dhabi Grand Prix,2020-12-13T13:10:00.000+0000,Valtteri Bottas,77,Finnish,2,2,40,+15.976,18,Mercedes,2024-09-30T06:19:53.613+0000
+2020,Abu Dhabi,Abu Dhabi Grand Prix,2020-12-13T13:10:00.000+0000,Lewis Hamilton,44,British,3,3,37,+18.415,15,Mercedes,2024-09-30T06:19:53.613+0000
+2020,Abu Dhabi,Abu Dhabi Grand Prix,2020-12-13T13:10:00.000+0000,Alexander Albon,23,Thai,5,4,42,+19.987,12,Red Bull,2024-09-30T06:19:53.613+0000
+2020,Abu Dhabi,Abu Dhabi Grand Prix,2020-12-13T13:10:00.000+0000,Lando Norris,4,British,4,5,53,+1:00.729,10,McLaren,2024-09-30T06:19:53.613+0000
+2020,Abu Dhabi,Abu Dhabi Grand Prix,2020-12-13T13:10:00.000+0000,Carlos Sainz,55,Spanish,6,6,48,+1:05.662,8,McLaren,2024-09-30T06:19:53.613+0000
+2020,Abu Dhabi,Abu Dhabi Grand Prix,2020-12-13T13:10:00.000+0000,Daniel Ricciardo,3,Australian,11,7,55,+1:13.748,7,Renault,2024-09-30T06:19:53.613+0000
+2020,Abu Dhabi,Abu Dhabi Grand Prix,2020-12-13T13:10:00.000+0000,Pierre Gasly,10,French,9,8,53,+1:29.718,4,AlphaTauri,2024-09-30T06:19:53.613+0000
+2020,Abu Dhabi,Abu Dhabi Grand Prix,2020-12-13T13:10:00.000+0000,Esteban Ocon,31,French,10,9,47,+1:41.069,2,Renault,2024-09-30T06:19:53.613+0000
+2020,Abu Dhabi,Abu Dhabi Grand Prix,2020-12-13T13:10:00.000+0000,Lance Stroll,18,Canadian,8,10,41,+1:42.738,1,Racing Point,2024-09-30T06:19:53.613+0000
+2020,Abu Dhabi,Abu Dhabi Grand Prix,2020-12-13T13:10:00.000+0000,Daniil Kvyat,26,Russian,7,11,47,\N,0,AlphaTauri,2024-09-30T06:19:53.613+0000
+2020,Abu Dhabi,Abu Dhabi Grand Prix,2020-12-13T13:10:00.000+0000,Kimi Räikkönen,7,Finnish,15,12,53,\N,0,Alfa Romeo,2024-09-30T06:19:53.613+0000
+2020,Abu Dhabi,Abu Dhabi Grand Prix,2020-12-13T13:10:00.000+0000,Charles Leclerc,16,Monegasque,12,13,24,\N,0,Ferrari,2024-09-30T06:19:53.613+0000
+2020,Abu Dhabi,Abu Dhabi Grand Prix,2020-12-13T13:10:00.000+0000,Sebastian Vettel,5,German,13,14,37,\N,0,Ferrari,2024-09-30T06:19:53.613+0000
+2020,Abu Dhabi,Abu Dhabi Grand Prix,2020-12-13T13:10:00.000+0000,George Russell,63,British,16,15,54,\N,0,Williams,2024-09-30T06:19:53.613+0000
+2020,Abu Dhabi,Abu Dhabi Grand Prix,2020-12-13T13:10:00.000+0000,Antonio Giovinazzi,99,Italian,14,16,29,\N,0,Alfa Romeo,2024-09-30T06:19:53.613+0000
+2020,Abu Dhabi,Abu Dhabi Grand Prix,2020-12-13T13:10:00.000+0000,Nicholas Latifi,6,Canadian,18,17,49,\N,0,Williams,2024-09-30T06:19:53.613+0000
+2020,Abu Dhabi,Abu Dhabi Grand Prix,2020-12-13T13:10:00.000+0000,Kevin Magnussen,20,Danish,20,18,50,\N,0,Haas F1 Team,2024-09-30T06:19:53.613+0000
+2020,Abu Dhabi,Abu Dhabi Grand Prix,2020-12-13T13:10:00.000+0000,Pietro Fittipaldi,51,Brazilian,17,19,50,\N,0,Haas F1 Team,2024-09-30T06:19:53.613+0000
+2020,Abu Dhabi,Abu Dhabi Grand Prix,2020-12-13T13:10:00.000+0000,Sergio Pérez,11,Mexican,19,null,6,\N,0,Racing Point,2024-09-30T06:19:53.613+0000
+2020,Mugello,Tuscan Grand Prix,2020-09-13T13:10:00.000+0000,Lewis Hamilton,44,British,1,1,58,2:19:35.060,26,Mercedes,2024-09-30T06:19:53.613+0000
+2020,Mugello,Tuscan Grand Prix,2020-09-13T13:10:00.000+0000,Valtteri Bottas,77,Finnish,2,2,53,+4.880,18,Mercedes,2024-09-30T06:19:53.613+0000
+2020,Mugello,Tuscan Grand Prix,2020-09-13T13:10:00.000+0000,Alexander Albon,23,Thai,4,3,51,+8.064,15,Red Bull,2024-09-30T06:19:53.613+0000
+2020,Mugello,Tuscan Grand Prix,2020-09-13T13:10:00.000+0000,Daniel Ricciardo,3,Australian,8,4,57,+10.417,12,Renault,2024-09-30T06:19:53.613+0000
+2020,Mugello,Tuscan Grand Prix,2020-09-13T13:10:00.000+0000,Sergio Pérez,11,Mexican,7,5,59,+15.650,10,Racing Point,2024-09-30T06:19:53.613+0000
+2020,Mugello,Tuscan Grand Prix,2020-09-13T13:10:00.000+0000,Lando Norris,4,British,11,6,59,+18.883,8,McLaren,2024-09-30T06:19:53.613+0000
+2020,Mugello,Tuscan Grand Prix,2020-09-13T13:10:00.000+0000,Daniil Kvyat,26,Russian,12,7,51,+21.756,6,AlphaTauri,2024-09-30T06:19:53.613+0000
+2020,Mugello,Tuscan Grand Prix,2020-09-13T13:10:00.000+0000,Charles Leclerc,16,Monegasque,5,8,50,+28.345,4,Ferrari,2024-09-30T06:19:53.613+0000
+2020,Mugello,Tuscan Grand Prix,2020-09-13T13:10:00.000+0000,Kimi Räikkönen,7,Finnish,13,9,59,+29.770,2,Alfa Romeo,2024-09-30T06:19:53.613+0000
+2020,Mugello,Tuscan Grand Prix,2020-09-13T13:10:00.000+0000,Sebastian Vettel,5,German,14,10,59,+29.983,1,Ferrari,2024-09-30T06:19:53.613+0000
+2020,Mugello,Tuscan Grand Prix,2020-09-13T13:10:00.000+0000,George Russell,63,British,18,11,58,+32.404,0,Williams,2024-09-30T06:19:53.613+0000
+2020,Mugello,Tuscan Grand Prix,2020-09-13T13:10:00.000+0000,Romain Grosjean,8,French,15,12,59,+42.036,0,Haas F1 Team,2024-09-30T06:19:53.613+0000
+2020,Mugello,Tuscan Grand Prix,2020-09-13T13:10:00.000+0000,Lance Stroll,18,Canadian,6,null,42,\N,0,Racing Point,2024-09-30T06:19:53.613+0000
+2020,Mugello,Tuscan Grand Prix,2020-09-13T13:10:00.000+0000,Esteban Ocon,31,French,10,null,6,\N,0,Renault,2024-09-30T06:19:53.613+0000
+2020,Mugello,Tuscan Grand Prix,2020-09-13T13:10:00.000+0000,Nicholas Latifi,6,Canadian,19,null,6,\N,0,Williams,2024-09-30T06:19:53.613+0000
+2020,Mugello,Tuscan Grand Prix,2020-09-13T13:10:00.000+0000,Kevin Magnussen,20,Danish,20,null,4,\N,0,Haas F1 Team,2024-09-30T06:19:53.613+0000
+2020,Mugello,Tuscan Grand Prix,2020-09-13T13:10:00.000+0000,Antonio Giovinazzi,99,Italian,17,null,4,\N,0,Alfa Romeo,2024-09-30T06:19:53.613+0000
+2020,Mugello,Tuscan Grand Prix,2020-09-13T13:10:00.000+0000,Carlos Sainz,55,Spanish,9,null,5,\N,0,McLaren,2024-09-30T06:19:53.613+0000
+2020,Mugello,Tuscan Grand Prix,2020-09-13T13:10:00.000+0000,Max Verstappen,33,Dutch,3,null,null,\N,0,Red Bull,2024-09-30T06:19:53.613+0000
+2020,Mugello,Tuscan Grand Prix,2020-09-13T13:10:00.000+0000,Pierre Gasly,10,French,16,null,null,\N,0,AlphaTauri,2024-09-30T06:19:53.613+0000
+2020,Sakhir,Sakhir Grand Prix,2020-12-06T17:10:00.000+0000,Sergio Pérez,11,Mexican,5,1,69,1:31:15.114,25,Racing Point,2024-09-30T06:19:53.613+0000
+2020,Sakhir,Sakhir Grand Prix,2020-12-06T17:10:00.000+0000,Esteban Ocon,31,French,11,2,75,+10.518,18,Renault,2024-09-30T06:19:53.613+0000
+2020,Sakhir,Sakhir Grand Prix,2020-12-06T17:10:00.000+0000,Lance Stroll,18,Canadian,10,3,85,+11.869,15,Racing Point,2024-09-30T06:19:53.613+0000
+2020,Sakhir,Sakhir Grand Prix,2020-12-06T17:10:00.000+0000,Carlos Sainz,55,Spanish,8,4,80,+12.580,12,McLaren,2024-09-30T06:19:53.613+0000
+2020,Sakhir,Sakhir Grand Prix,2020-12-06T17:10:00.000+0000,Daniel Ricciardo,3,Australian,7,5,57,+13.330,10,Renault,2024-09-30T06:19:53.613+0000
+2020,Sakhir,Sakhir Grand Prix,2020-12-06T17:10:00.000+0000,Alexander Albon,23,Thai,12,6,52,+13.842,8,Red Bull,2024-09-30T06:19:53.613+0000
+2020,Sakhir,Sakhir Grand Prix,2020-12-06T17:10:00.000+0000,Daniil Kvyat,26,Russian,6,7,80,+14.534,6,AlphaTauri,2024-09-30T06:19:53.613+0000
+2020,Sakhir,Sakhir Grand Prix,2020-12-06T17:10:00.000+0000,Valtteri Bottas,77,Finnish,1,8,60,+15.389,4,Mercedes,2024-09-30T06:19:53.613+0000
+2020,Sakhir,Sakhir Grand Prix,2020-12-06T17:10:00.000+0000,George Russell,63,British,2,9,80,+18.556,3,Mercedes,2024-09-30T06:19:53.613+0000
+2020,Sakhir,Sakhir Grand Prix,2020-12-06T17:10:00.000+0000,Lando Norris,4,British,19,10,85,+19.541,1,McLaren,2024-09-30T06:19:53.613+0000
+2020,Sakhir,Sakhir Grand Prix,2020-12-06T17:10:00.000+0000,Pierre Gasly,10,French,9,11,53,+20.527,0,AlphaTauri,2024-09-30T06:19:53.613+0000
+2020,Sakhir,Sakhir Grand Prix,2020-12-06T17:10:00.000+0000,Sebastian Vettel,5,German,13,12,56,+22.611,0,Ferrari,2024-09-30T06:19:53.613+0000
+2020,Sakhir,Sakhir Grand Prix,2020-12-06T17:10:00.000+0000,Antonio Giovinazzi,99,Italian,14,13,56,+24.111,0,Alfa Romeo,2024-09-30T06:19:53.613+0000
+2020,Sakhir,Sakhir Grand Prix,2020-12-06T17:10:00.000+0000,Kimi Räikkönen,7,Finnish,18,14,56,+26.153,0,Alfa Romeo,2024-09-30T06:19:53.613+0000
+2020,Sakhir,Sakhir Grand Prix,2020-12-06T17:10:00.000+0000,Kevin Magnussen,20,Danish,15,15,57,+32.370,0,Haas F1 Team,2024-09-30T06:19:53.613+0000
+2020,Sakhir,Sakhir Grand Prix,2020-12-06T17:10:00.000+0000,Jack Aitken,89,British,17,16,56,+33.674,0,Williams,2024-09-30T06:19:53.613+0000
+2020,Sakhir,Sakhir Grand Prix,2020-12-06T17:10:00.000+0000,Pietro Fittipaldi,51,Brazilian,20,17,56,+36.858,0,Haas F1 Team,2024-09-30T06:19:53.613+0000
+2020,Sakhir,Sakhir Grand Prix,2020-12-06T17:10:00.000+0000,Nicholas Latifi,6,Canadian,16,null,29,\N,0,Williams,2024-09-30T06:19:53.613+0000
+2020,Sakhir,Sakhir Grand Prix,2020-12-06T17:10:00.000+0000,Max Verstappen,33,Dutch,3,null,null,\N,0,Red Bull,2024-09-30T06:19:53.613+0000
+2020,Sakhir,Sakhir Grand Prix,2020-12-06T17:10:00.000+0000,Charles Leclerc,16,Monegasque,4,null,null,\N,0,Ferrari,2024-09-30T06:19:53.613+0000
+2020,Sochi,Russian Grand Prix,2020-09-27T11:10:00.000+0000,Valtteri Bottas,77,Finnish,3,1,51,1:34:00.364,26,Mercedes,2024-09-30T06:19:53.613+0000
+2020,Sochi,Russian Grand Prix,2020-09-27T11:10:00.000+0000,Max Verstappen,33,Dutch,2,2,53,+7.729,18,Red Bull,2024-09-30T06:19:53.613+0000
+2020,Sochi,Russian Grand Prix,2020-09-27T11:10:00.000+0000,Lewis Hamilton,44,British,1,3,48,+22.729,15,Mercedes,2024-09-30T06:19:53.613+0000
+2020,Sochi,Russian Grand Prix,2020-09-27T11:10:00.000+0000,Sergio Pérez,11,Mexican,4,4,52,+30.558,12,Racing Point,2024-09-30T06:19:53.613+0000
+2020,Sochi,Russian Grand Prix,2020-09-27T11:10:00.000+0000,Daniel Ricciardo,3,Australian,5,5,53,+52.065,10,Renault,2024-09-30T06:19:53.613+0000
+2020,Sochi,Russian Grand Prix,2020-09-27T11:10:00.000+0000,Charles Leclerc,16,Monegasque,10,6,47,+1:02.186,8,Ferrari,2024-09-30T06:19:53.613+0000
+2020,Sochi,Russian Grand Prix,2020-09-27T11:10:00.000+0000,Esteban Ocon,31,French,7,7,48,+1:08.006,6,Renault,2024-09-30T06:19:53.613+0000
+2020,Sochi,Russian Grand Prix,2020-09-27T11:10:00.000+0000,Daniil Kvyat,26,Russian,11,8,48,+1:08.740,4,AlphaTauri,2024-09-30T06:19:53.613+0000
+2020,Sochi,Russian Grand Prix,2020-09-27T11:10:00.000+0000,Pierre Gasly,10,French,9,9,50,+1:29.766,2,AlphaTauri,2024-09-30T06:19:53.613+0000
+2020,Sochi,Russian Grand Prix,2020-09-27T11:10:00.000+0000,Alexander Albon,23,Thai,15,10,51,+1:37.860,1,Red Bull,2024-09-30T06:19:53.613+0000
+2020,Sochi,Russian Grand Prix,2020-09-27T11:10:00.000+0000,Antonio Giovinazzi,99,Italian,17,11,44,\N,0,Alfa Romeo,2024-09-30T06:19:53.613+0000
+2020,Sochi,Russian Grand Prix,2020-09-27T11:10:00.000+0000,Kevin Magnussen,20,Danish,18,12,52,\N,0,Haas F1 Team,2024-09-30T06:19:53.613+0000
+2020,Sochi,Russian Grand Prix,2020-09-27T11:10:00.000+0000,Sebastian Vettel,5,German,14,13,46,\N,0,Ferrari,2024-09-30T06:19:53.613+0000
+2020,Sochi,Russian Grand Prix,2020-09-27T11:10:00.000+0000,Kimi Räikkönen,7,Finnish,19,14,37,\N,0,Alfa Romeo,2024-09-30T06:19:53.613+0000
+2020,Sochi,Russian Grand Prix,2020-09-27T11:10:00.000+0000,Lando Norris,4,British,8,15,50,\N,0,McLaren,2024-09-30T06:19:53.613+0000
+2020,Sochi,Russian Grand Prix,2020-09-27T11:10:00.000+0000,Nicholas Latifi,6,Canadian,20,16,47,\N,0,Williams,2024-09-30T06:19:53.613+0000
+2020,Sochi,Russian Grand Prix,2020-09-27T11:10:00.000+0000,Romain Grosjean,8,French,16,17,44,\N,0,Haas F1 Team,2024-09-30T06:19:53.613+0000
+2020,Sochi,Russian Grand Prix,2020-09-27T11:10:00.000+0000,George Russell,63,British,13,18,52,\N,0,Williams,2024-09-30T06:19:53.613+0000
+2020,Sochi,Russian Grand Prix,2020-09-27T11:10:00.000+0000,Carlos Sainz,55,Spanish,6,null,null,\N,0,McLaren,2024-09-30T06:19:53.613+0000
+2020,Sochi,Russian Grand Prix,2020-09-27T11:10:00.000+0000,Lance Stroll,18,Canadian,12,null,null,\N,0,Racing Point,2024-09-30T06:19:53.613+0000
+2020,Spielburg,Styrian Grand Prix,2020-07-12T13:10:00.000+0000,Lewis Hamilton,44,British,1,1,68,1:22:50.683,25,Mercedes,2024-09-30T06:19:53.613+0000
+2020,Spielburg,Styrian Grand Prix,2020-07-12T13:10:00.000+0000,Valtteri Bottas,77,Finnish,4,2,62,+13.719,18,Mercedes,2024-09-30T06:19:53.613+0000
+2020,Spielburg,Styrian Grand Prix,2020-07-12T13:10:00.000+0000,Max Verstappen,33,Dutch,2,3,70,+33.698,15,Red Bull,2024-09-30T06:19:53.613+0000
+2020,Spielburg,Styrian Grand Prix,2020-07-12T13:10:00.000+0000,Alexander Albon,23,Thai,6,4,67,+44.400,12,Red Bull,2024-09-30T06:19:53.613+0000
+2020,Spielburg,Styrian Grand Prix,2020-07-12T13:10:00.000+0000,Lando Norris,4,British,9,5,66,+1:01.470,10,McLaren,2024-09-30T06:19:53.613+0000
+2020,Spielburg,Styrian Grand Prix,2020-07-12T13:10:00.000+0000,Sergio Pérez,11,Mexican,17,6,68,+1:02.387,8,Racing Point,2024-09-30T06:19:53.613+0000
+2020,Spielburg,Styrian Grand Prix,2020-07-12T13:10:00.000+0000,Lance Stroll,18,Canadian,12,7,65,+1:02.453,6,Racing Point,2024-09-30T06:19:53.613+0000
+2020,Spielburg,Styrian Grand Prix,2020-07-12T13:10:00.000+0000,Daniel Ricciardo,3,Australian,8,8,65,+1:02.591,4,Renault,2024-09-30T06:19:53.613+0000
+2020,Spielburg,Styrian Grand Prix,2020-07-12T13:10:00.000+0000,Carlos Sainz,55,Spanish,3,9,68,\N,3,McLaren,2024-09-30T06:19:53.613+0000
+2020,Spielburg,Styrian Grand Prix,2020-07-12T13:10:00.000+0000,Daniil Kvyat,26,Russian,13,10,60,\N,1,AlphaTauri,2024-09-30T06:19:53.613+0000
+2020,Spielburg,Styrian Grand Prix,2020-07-12T13:10:00.000+0000,Kimi Räikkönen,7,Finnish,16,11,57,\N,0,Alfa Romeo,2024-09-30T06:19:53.613+0000
+2020,Spielburg,Styrian Grand Prix,2020-07-12T13:10:00.000+0000,Kevin Magnussen,20,Danish,15,12,69,\N,0,Haas F1 Team,2024-09-30T06:19:53.613+0000
+2020,Spielburg,Styrian Grand Prix,2020-07-12T13:10:00.000+0000,Romain Grosjean,8,French,0,13,69,\N,0,Haas F1 Team,2024-09-30T06:19:53.613+0000
+2020,Spielburg,Styrian Grand Prix,2020-07-12T13:10:00.000+0000,Antonio Giovinazzi,99,Italian,19,14,54,\N,0,Alfa Romeo,2024-09-30T06:19:53.613+0000
+2020,Spielburg,Styrian Grand Prix,2020-07-12T13:10:00.000+0000,Pierre Gasly,10,French,7,15,69,\N,0,AlphaTauri,2024-09-30T06:19:53.613+0000
+2020,Spielburg,Styrian Grand Prix,2020-07-12T13:10:00.000+0000,George Russell,63,British,11,16,36,\N,0,Williams,2024-09-30T06:19:53.613+0000
+2020,Spielburg,Styrian Grand Prix,2020-07-12T13:10:00.000+0000,Nicholas Latifi,6,Canadian,18,17,68,\N,0,Williams,2024-09-30T06:19:53.613+0000
+2020,Spielburg,Styrian Grand Prix,2020-07-12T13:10:00.000+0000,Esteban Ocon,31,French,5,null,22,\N,0,Renault,2024-09-30T06:19:53.613+0000
+2020,Spielburg,Styrian Grand Prix,2020-07-12T13:10:00.000+0000,Charles Leclerc,16,Monegasque,14,null,3,\N,0,Ferrari,2024-09-30T06:19:53.613+0000
+2020,Spielburg,Styrian Grand Prix,2020-07-12T13:10:00.000+0000,Sebastian Vettel,5,German,10,null,null,\N,0,Ferrari,2024-09-30T06:19:53.613+0000
+2020,Budapest,Hungarian Grand Prix,2020-07-19T13:10:00.000+0000,Lewis Hamilton,44,British,1,1,70,1:36:12.473,26,Mercedes,2024-09-30T06:19:53.613+0000
+2020,Budapest,Hungarian Grand Prix,2020-07-19T13:10:00.000+0000,Max Verstappen,33,Dutch,7,2,60,+8.702,18,Red Bull,2024-09-30T06:19:53.613+0000
+2020,Budapest,Hungarian Grand Prix,2020-07-19T13:10:00.000+0000,Valtteri Bottas,77,Finnish,2,3,66,+9.452,15,Mercedes,2024-09-30T06:19:53.613+0000
+2020,Budapest,Hungarian Grand Prix,2020-07-19T13:10:00.000+0000,Lance Stroll,18,Canadian,3,4,68,+57.579,12,Racing Point,2024-09-30T06:19:53.613+0000
+2020,Budapest,Hungarian Grand Prix,2020-07-19T13:10:00.000+0000,Alexander Albon,23,Thai,13,5,68,+1:18.316,10,Red Bull,2024-09-30T06:19:53.613+0000
+2020,Budapest,Hungarian Grand Prix,2020-07-19T13:10:00.000+0000,Sebastian Vettel,5,German,5,6,49,\N,8,Ferrari,2024-09-30T06:19:53.613+0000
+2020,Budapest,Hungarian Grand Prix,2020-07-19T13:10:00.000+0000,Sergio Pérez,11,Mexican,4,7,39,\N,6,Racing Point,2024-09-30T06:19:53.613+0000
+2020,Budapest,Hungarian Grand Prix,2020-07-19T13:10:00.000+0000,Daniel Ricciardo,3,Australian,11,8,46,\N,4,Renault,2024-09-30T06:19:53.613+0000
+2020,Budapest,Hungarian Grand Prix,2020-07-19T13:10:00.000+0000,Carlos Sainz,55,Spanish,9,9,68,\N,2,McLaren,2024-09-30T06:19:53.613+0000
+2020,Budapest,Hungarian Grand Prix,2020-07-19T13:10:00.000+0000,Kevin Magnussen,20,Danish,0,10,67,\N,1,Haas F1 Team,2024-09-30T06:19:53.613+0000
+2020,Budapest,Hungarian Grand Prix,2020-07-19T13:10:00.000+0000,Charles Leclerc,16,Monegasque,6,11,64,\N,0,Ferrari,2024-09-30T06:19:53.613+0000
+2020,Budapest,Hungarian Grand Prix,2020-07-19T13:10:00.000+0000,Daniil Kvyat,26,Russian,17,12,51,\N,0,AlphaTauri,2024-09-30T06:19:53.613+0000
+2020,Budapest,Hungarian Grand Prix,2020-07-19T13:10:00.000+0000,Lando Norris,4,British,8,13,42,\N,0,McLaren,2024-09-30T06:19:53.613+0000
+2020,Budapest,Hungarian Grand Prix,2020-07-19T13:10:00.000+0000,Esteban Ocon,31,French,14,14,40,\N,0,Renault,2024-09-30T06:19:53.613+0000
+2020,Budapest,Hungarian Grand Prix,2020-07-19T13:10:00.000+0000,Kimi Räikkönen,7,Finnish,20,15,67,\N,0,Alfa Romeo,2024-09-30T06:19:53.613+0000
+2020,Budapest,Hungarian Grand Prix,2020-07-19T13:10:00.000+0000,Romain Grosjean,8,French,0,16,61,\N,0,Haas F1 Team,2024-09-30T06:19:53.613+0000
+2020,Budapest,Hungarian Grand Prix,2020-07-19T13:10:00.000+0000,Antonio Giovinazzi,99,Italian,19,17,44,\N,0,Alfa Romeo,2024-09-30T06:19:53.613+0000
+2020,Budapest,Hungarian Grand Prix,2020-07-19T13:10:00.000+0000,George Russell,63,British,12,18,67,\N,0,Williams,2024-09-30T06:19:53.613+0000
+2020,Budapest,Hungarian Grand Prix,2020-07-19T13:10:00.000+0000,Nicholas Latifi,6,Canadian,15,19,64,\N,0,Williams,2024-09-30T06:19:53.613+0000
+2020,Budapest,Hungarian Grand Prix,2020-07-19T13:10:00.000+0000,Pierre Gasly,10,French,10,null,10,\N,0,AlphaTauri,2024-09-30T06:19:53.613+0000
+2020,Sakhir,Bahrain Grand Prix,2020-11-29T14:10:00.000+0000,Lewis Hamilton,44,British,1,1,38,2:59:47.515,25,Mercedes,2024-09-30T06:19:53.613+0000
+2020,Sakhir,Bahrain Grand Prix,2020-11-29T14:10:00.000+0000,Max Verstappen,33,Dutch,3,2,48,+1.254,19,Red Bull,2024-09-30T06:19:53.613+0000
+2020,Sakhir,Bahrain Grand Prix,2020-11-29T14:10:00.000+0000,Alexander Albon,23,Thai,4,3,41,+8.005,15,Red Bull,2024-09-30T06:19:53.613+0000
+2020,Sakhir,Bahrain Grand Prix,2020-11-29T14:10:00.000+0000,Lando Norris,4,British,9,4,53,+11.337,12,McLaren,2024-09-30T06:19:53.613+0000
+2020,Sakhir,Bahrain Grand Prix,2020-11-29T14:10:00.000+0000,Carlos Sainz,55,Spanish,15,5,46,+11.787,10,McLaren,2024-09-30T06:19:53.613+0000
+2020,Sakhir,Bahrain Grand Prix,2020-11-29T14:10:00.000+0000,Pierre Gasly,10,French,8,6,48,+11.942,8,AlphaTauri,2024-09-30T06:19:53.613+0000
+2020,Sakhir,Bahrain Grand Prix,2020-11-29T14:10:00.000+0000,Daniel Ricciardo,3,Australian,6,7,38,+19.368,6,Renault,2024-09-30T06:19:53.613+0000
+2020,Sakhir,Bahrain Grand Prix,2020-11-29T14:10:00.000+0000,Valtteri Bottas,77,Finnish,2,8,28,+19.680,4,Mercedes,2024-09-30T06:19:53.613+0000
+2020,Sakhir,Bahrain Grand Prix,2020-11-29T14:10:00.000+0000,Esteban Ocon,31,French,7,9,37,+22.803,2,Renault,2024-09-30T06:19:53.613+0000
+2020,Sakhir,Bahrain Grand Prix,2020-11-29T14:10:00.000+0000,Charles Leclerc,16,Monegasque,12,10,44,\N,1,Ferrari,2024-09-30T06:19:53.613+0000
+2020,Sakhir,Bahrain Grand Prix,2020-11-29T14:10:00.000+0000,Daniil Kvyat,26,Russian,10,11,35,\N,0,AlphaTauri,2024-09-30T06:19:53.613+0000
+2020,Sakhir,Bahrain Grand Prix,2020-11-29T14:10:00.000+0000,George Russell,63,British,14,12,47,\N,0,Williams,2024-09-30T06:19:53.613+0000
+2020,Sakhir,Bahrain Grand Prix,2020-11-29T14:10:00.000+0000,Sebastian Vettel,5,German,11,13,41,\N,0,Ferrari,2024-09-30T06:19:53.613+0000
+2020,Sakhir,Bahrain Grand Prix,2020-11-29T14:10:00.000+0000,Nicholas Latifi,6,Canadian,20,14,39,\N,0,Williams,2024-09-30T06:19:53.613+0000
+2020,Sakhir,Bahrain Grand Prix,2020-11-29T14:10:00.000+0000,Kimi Räikkönen,7,Finnish,17,15,43,\N,0,Alfa Romeo,2024-09-30T06:19:53.613+0000
+2020,Sakhir,Bahrain Grand Prix,2020-11-29T14:10:00.000+0000,Antonio Giovinazzi,99,Italian,16,16,22,\N,0,Alfa Romeo,2024-09-30T06:19:53.613+0000
+2020,Sakhir,Bahrain Grand Prix,2020-11-29T14:10:00.000+0000,Kevin Magnussen,20,Danish,18,17,29,\N,0,Haas F1 Team,2024-09-30T06:19:53.613+0000
+2020,Sakhir,Bahrain Grand Prix,2020-11-29T14:10:00.000+0000,Sergio Pérez,11,Mexican,5,18,40,\N,0,Racing Point,2024-09-30T06:19:53.613+0000
+2020,Sakhir,Bahrain Grand Prix,2020-11-29T14:10:00.000+0000,Lance Stroll,18,Canadian,13,null,null,\N,0,Racing Point,2024-09-30T06:19:53.613+0000
+2020,Sakhir,Bahrain Grand Prix,2020-11-29T14:10:00.000+0000,Romain Grosjean,8,French,19,null,null,\N,0,Haas F1 Team,2024-09-30T06:19:53.613+0000
+2020,Montmeló,Spanish Grand Prix,2020-08-16T13:10:00.000+0000,Lewis Hamilton,44,British,1,1,63,1:31:45.279,25,Mercedes,2024-09-30T06:19:53.613+0000
+2020,Montmeló,Spanish Grand Prix,2020-08-16T13:10:00.000+0000,Max Verstappen,33,Dutch,3,2,53,+24.177,18,Red Bull,2024-09-30T06:19:53.613+0000
+2020,Montmeló,Spanish Grand Prix,2020-08-16T13:10:00.000+0000,Valtteri Bottas,77,Finnish,2,3,66,+44.752,16,Mercedes,2024-09-30T06:19:53.613+0000
+2020,Montmeló,Spanish Grand Prix,2020-08-16T13:10:00.000+0000,Lance Stroll,18,Canadian,5,4,56,\N,12,Racing Point,2024-09-30T06:19:53.613+0000
+2020,Montmeló,Spanish Grand Prix,2020-08-16T13:10:00.000+0000,Sergio Pérez,11,Mexican,4,5,58,\N,10,Racing Point,2024-09-30T06:19:53.613+0000
+2020,Montmeló,Spanish Grand Prix,2020-08-16T13:10:00.000+0000,Carlos Sainz,55,Spanish,7,6,59,\N,8,McLaren,2024-09-30T06:19:53.613+0000
+2020,Montmeló,Spanish Grand Prix,2020-08-16T13:10:00.000+0000,Sebastian Vettel,5,German,11,7,48,\N,6,Ferrari,2024-09-30T06:19:53.613+0000
+2020,Montmeló,Spanish Grand Prix,2020-08-16T13:10:00.000+0000,Alexander Albon,23,Thai,6,8,41,\N,4,Red Bull,2024-09-30T06:19:53.613+0000
+2020,Montmeló,Spanish Grand Prix,2020-08-16T13:10:00.000+0000,Pierre Gasly,10,French,10,9,44,\N,2,AlphaTauri,2024-09-30T06:19:53.613+0000
+2020,Montmeló,Spanish Grand Prix,2020-08-16T13:10:00.000+0000,Lando Norris,4,British,8,10,56,\N,1,McLaren,2024-09-30T06:19:53.613+0000
+2020,Montmeló,Spanish Grand Prix,2020-08-16T13:10:00.000+0000,Daniel Ricciardo,3,Australian,13,11,51,\N,0,Renault,2024-09-30T06:19:53.613+0000
+2020,Montmeló,Spanish Grand Prix,2020-08-16T13:10:00.000+0000,Daniil Kvyat,26,Russian,12,12,47,\N,0,AlphaTauri,2024-09-30T06:19:53.613+0000
+2020,Montmeló,Spanish Grand Prix,2020-08-16T13:10:00.000+0000,Esteban Ocon,31,French,15,13,65,\N,0,Renault,2024-09-30T06:19:53.613+0000
+2020,Montmeló,Spanish Grand Prix,2020-08-16T13:10:00.000+0000,Kimi Räikkönen,7,Finnish,14,14,47,\N,0,Alfa Romeo,2024-09-30T06:19:53.613+0000
+2020,Montmeló,Spanish Grand Prix,2020-08-16T13:10:00.000+0000,Kevin Magnussen,20,Danish,16,15,64,\N,0,Haas F1 Team,2024-09-30T06:19:53.613+0000
+2020,Montmeló,Spanish Grand Prix,2020-08-16T13:10:00.000+0000,Antonio Giovinazzi,99,Italian,20,16,47,\N,0,Alfa Romeo,2024-09-30T06:19:53.613+0000
+2020,Montmeló,Spanish Grand Prix,2020-08-16T13:10:00.000+0000,George Russell,63,British,18,17,37,\N,0,Williams,2024-09-30T06:19:53.613+0000
+2020,Montmeló,Spanish Grand Prix,2020-08-16T13:10:00.000+0000,Nicholas Latifi,6,Canadian,19,18,60,\N,0,Williams,2024-09-30T06:19:53.613+0000
+2020,Montmeló,Spanish Grand Prix,2020-08-16T13:10:00.000+0000,Romain Grosjean,8,French,17,19,64,\N,0,Haas F1 Team,2024-09-30T06:19:53.613+0000
+2020,Montmeló,Spanish Grand Prix,2020-08-16T13:10:00.000+0000,Charles Leclerc,16,Monegasque,9,null,35,\N,0,Ferrari,2024-09-30T06:19:53.613+0000
+2020,Portimão,Portuguese Grand Prix,2020-10-25T12:10:00.000+0000,Lewis Hamilton,44,British,1,1,63,1:29:56.828,26,Mercedes,2024-09-30T06:19:53.613+0000
+2020,Portimão,Portuguese Grand Prix,2020-10-25T12:10:00.000+0000,Valtteri Bottas,77,Finnish,2,2,66,+25.592,18,Mercedes,2024-09-30T06:19:53.613+0000
+2020,Portimão,Portuguese Grand Prix,2020-10-25T12:10:00.000+0000,Max Verstappen,33,Dutch,3,3,62,+34.508,15,Red Bull,2024-09-30T06:19:53.613+0000
+2020,Portimão,Portuguese Grand Prix,2020-10-25T12:10:00.000+0000,Charles Leclerc,16,Monegasque,4,4,66,+1:05.312,12,Ferrari,2024-09-30T06:19:53.613+0000
+2020,Portimão,Portuguese Grand Prix,2020-10-25T12:10:00.000+0000,Pierre Gasly,10,French,9,5,65,\N,10,AlphaTauri,2024-09-30T06:19:53.613+0000
+2020,Portimão,Portuguese Grand Prix,2020-10-25T12:10:00.000+0000,Carlos Sainz,55,Spanish,7,6,65,\N,8,McLaren,2024-09-30T06:19:53.613+0000
+2020,Portimão,Portuguese Grand Prix,2020-10-25T12:10:00.000+0000,Sergio Pérez,11,Mexican,5,7,49,\N,6,Racing Point,2024-09-30T06:19:53.613+0000
+2020,Portimão,Portuguese Grand Prix,2020-10-25T12:10:00.000+0000,Esteban Ocon,31,French,11,8,61,\N,4,Renault,2024-09-30T06:19:53.613+0000
+2020,Portimão,Portuguese Grand Prix,2020-10-25T12:10:00.000+0000,Daniel Ricciardo,3,Australian,10,9,61,\N,2,Renault,2024-09-30T06:19:53.613+0000
+2020,Portimão,Portuguese Grand Prix,2020-10-25T12:10:00.000+0000,Sebastian Vettel,5,German,15,10,62,\N,1,Ferrari,2024-09-30T06:19:53.613+0000
+2020,Portimão,Portuguese Grand Prix,2020-10-25T12:10:00.000+0000,Kimi Räikkönen,7,Finnish,16,11,60,\N,0,Alfa Romeo,2024-09-30T06:19:53.613+0000
+2020,Portimão,Portuguese Grand Prix,2020-10-25T12:10:00.000+0000,Alexander Albon,23,Thai,6,12,61,\N,0,Red Bull,2024-09-30T06:19:53.613+0000
+2020,Portimão,Portuguese Grand Prix,2020-10-25T12:10:00.000+0000,Lando Norris,4,British,8,13,65,\N,0,McLaren,2024-09-30T06:19:53.613+0000
+2020,Portimão,Portuguese Grand Prix,2020-10-25T12:10:00.000+0000,George Russell,63,British,14,14,62,\N,0,Williams,2024-09-30T06:19:53.613+0000
+2020,Portimão,Portuguese Grand Prix,2020-10-25T12:10:00.000+0000,Antonio Giovinazzi,99,Italian,17,15,46,\N,0,Alfa Romeo,2024-09-30T06:19:53.613+0000
+2020,Portimão,Portuguese Grand Prix,2020-10-25T12:10:00.000+0000,Kevin Magnussen,20,Danish,19,16,63,\N,0,Haas F1 Team,2024-09-30T06:19:53.613+0000
+2020,Portimão,Portuguese Grand Prix,2020-10-25T12:10:00.000+0000,Romain Grosjean,8,French,18,17,59,\N,0,Haas F1 Team,2024-09-30T06:19:53.613+0000
+2020,Portimão,Portuguese Grand Prix,2020-10-25T12:10:00.000+0000,Nicholas Latifi,6,Canadian,20,18,53,\N,0,Williams,2024-09-30T06:19:53.613+0000
+2020,Portimão,Portuguese Grand Prix,2020-10-25T12:10:00.000+0000,Daniil Kvyat,26,Russian,13,19,59,\N,0,AlphaTauri,2024-09-30T06:19:53.613+0000
+2020,Portimão,Portuguese Grand Prix,2020-10-25T12:10:00.000+0000,Lance Stroll,18,Canadian,12,null,45,\N,0,Racing Point,2024-09-30T06:19:53.613+0000
